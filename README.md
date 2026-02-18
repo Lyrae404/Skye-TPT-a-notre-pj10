@@ -17,5 +17,5 @@ EXEMPLE
 [] sol roche
 [] sol terre
 [] sol "nuage"
-[]echelle
+[X]echelle
 [] pnj lore
